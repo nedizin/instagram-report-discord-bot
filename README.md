@@ -13,6 +13,17 @@ contas = [["email@gmail.com", "pass", browser1], ["email2@gmail.com", "pass", br
 
 ```
 
+# Install
+
+Open install.bat to install librarys / dependencies
+
+Config main.py with the accounts and browsers and the bot token (get one here : https://discordapi.com )
+
+Open run.bat and enjoy :)
+
+Default prefix : insta!
+
+
 Used librarys:
 ```
 selenium
