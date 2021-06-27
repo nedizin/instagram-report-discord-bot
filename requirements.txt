@@ -1,0 +1,8 @@
+selenium
+os
+urllib.request
+string
+random
+time
+requests
+discord
